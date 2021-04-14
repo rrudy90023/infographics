@@ -107,7 +107,7 @@ class Geos extends React.Component {
 
       return (
         <div key={geo.geo} style={[styles.desktop]}>
-          <Link to={path}>
+          <Link to={path} onClick={() => window.scrollTo({top: 0, behavior: 'smooth'})}>
             
             <img src={flag} style={[styles.ipad]} alt="" />
             <span style={{'color':'#a4a4a4', 'width': '90%', 'display': 'inline-block', 'cursor': 'pointer', 'textAlign': 'center', 'fontSize': '16px', 'fontWeight': '300', 'marginTop': '5%'}}>{geo.country}</span>

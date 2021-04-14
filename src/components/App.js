@@ -9,7 +9,7 @@ class App extends React.Component {
 
 	render() {	
 		return (
-			<BrowserRouter onUpdate={() => window.scrollTo(0, 0)}>
+			<BrowserRouter>
 				<Switch>
 			      <Route exact path="/geos" component={Geos}/>
 			      <Route path="/geo/:geo" component={Geo}/>
