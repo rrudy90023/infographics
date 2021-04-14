@@ -1,139 +1,139 @@
 @font-face {
   font-family: SanFranciscoText;
-  src: url('http://rudes.de/infog/images/fonts/SanFranciscoText-Semibold.eot');
-  src: url('http://rudes.de/infog/images/fonts/SanFranciscoText-Semibold.eot?#iefix') format('embedded-opentype'),
-    url('http://rudes.de/infog/images/fonts/SanFranciscoText-Semibold.woff') format('woff'),
-    url('http://rudes.de/infog/images/fonts/SanFranciscoText-Semibold.ttf') format('truetype');
+  src: url('./fonts/SanFranciscoText-Semibold.eot');
+  src: url('./fonts/SanFranciscoText-Semibold.eot?#iefix') format('embedded-opentype'),
+    url('./fonts/SanFranciscoText-Semibold.woff') format('woff'),
+    url('./fonts/SanFranciscoText-Semibold.ttf') format('truetype');
   font-weight: 600;
   font-style: normal;
 }
 
 @font-face {
   font-family: SanFranciscoText;
-  src: url('http://rudes.de/infog/images/fonts/SanFranciscoText-BoldItalic.eot');
-  src: url('http://rudes.de/infog/images/fonts/SanFranciscoText-BoldItalic.eot?#iefix') format('embedded-opentype'),
-    url('http://rudes.de/infog/images/fonts/SanFranciscoText-BoldItalic.woff') format('woff'),
-    url('http://rudes.de/infog/images/fonts/SanFranciscoText-BoldItalic.ttf') format('truetype');
+  src: url('./fonts/SanFranciscoText-BoldItalic.eot');
+  src: url('./fonts/SanFranciscoText-BoldItalic.eot?#iefix') format('embedded-opentype'),
+    url('./fonts/SanFranciscoText-BoldItalic.woff') format('woff'),
+    url('./fonts/SanFranciscoText-BoldItalic.ttf') format('truetype');
   font-weight: bold;
   font-style: italic;
 }
 
 @font-face {
   font-family: SanFranciscoText;
-  src: url('http://rudes.de/infog/images/fonts/SanFranciscoText-HeavyItalic.eot');
-  src: url('http://rudes.de/infog/images/fonts/SanFranciscoText-HeavyItalic.eot?#iefix') format('embedded-opentype'),
-    url('http://rudes.de/infog/images/fonts/SanFranciscoText-HeavyItalic.woff') format('woff'),
-    url('http://rudes.de/infog/images/fonts/SanFranciscoText-HeavyItalic.ttf') format('truetype');
+  src: url('./fonts/SanFranciscoText-HeavyItalic.eot');
+  src: url('./fonts/SanFranciscoText-HeavyItalic.eot?#iefix') format('embedded-opentype'),
+    url('./fonts/SanFranciscoText-HeavyItalic.woff') format('woff'),
+    url('./fonts/SanFranciscoText-HeavyItalic.ttf') format('truetype');
   font-weight: 900;
   font-style: italic;
 }
 
 @font-face {
   font-family: SanFranciscoText;
-  src: url('http://rudes.de/infog/images/fonts/SanFranciscoText-Italic.eot');
-  src: url('http://rudes.de/infog/images/fonts/SanFranciscoText-Italic.eot?#iefix') format('embedded-opentype'),
-    url('http://rudes.de/infog/images/fonts/SanFranciscoText-Italic.woff') format('woff'),
-    url('http://rudes.de/infog/images/fonts/SanFranciscoText-Italic.ttf') format('truetype');
+  src: url('./fonts/SanFranciscoText-Italic.eot');
+  src: url('./fonts/SanFranciscoText-Italic.eot?#iefix') format('embedded-opentype'),
+    url('./fonts/SanFranciscoText-Italic.woff') format('woff'),
+    url('./fonts/SanFranciscoText-Italic.ttf') format('truetype');
   font-weight: normal;
   font-style: italic;
 }
 
 @font-face {
   font-family: SanFranciscoText;
-  src: url('http://rudes.de/infog/images/fonts/SanFranciscoText-Thin.eot');
-  src: url('http://rudes.de/infog/images/fonts/SanFranciscoText-Thin.eot?#iefix') format('embedded-opentype'),
-    url('http://rudes.de/infog/images/fonts/SanFranciscoText-Thin.woff') format('woff'),
-    url('http://rudes.de/infog/images/fonts/SanFranciscoText-Thin.ttf') format('truetype');
+  src: url('./fonts/SanFranciscoText-Thin.eot');
+  src: url('./fonts/SanFranciscoText-Thin.eot?#iefix') format('embedded-opentype'),
+    url('./fonts/SanFranciscoText-Thin.woff') format('woff'),
+    url('./fonts/SanFranciscoText-Thin.ttf') format('truetype');
   font-weight: 100;
   font-style: normal;
 }
 
 @font-face {
   font-family: SanFranciscoText;
-  src: url('http://rudes.de/infog/images/fonts/SanFranciscoText-MediumItalic.eot');
-  src: url('http://rudes.de/infog/images/fonts/SanFranciscoText-MediumItalic.eot?#iefix') format('embedded-opentype'),
-    url('http://rudes.de/infog/images/fonts/SanFranciscoText-MediumItalic.woff') format('woff'),
-    url('http://rudes.de/infog/images/fonts/SanFranciscoText-MediumItalic.ttf') format('truetype');
+  src: url('./fonts/SanFranciscoText-MediumItalic.eot');
+  src: url('./fonts/SanFranciscoText-MediumItalic.eot?#iefix') format('embedded-opentype'),
+    url('./fonts/SanFranciscoText-MediumItalic.woff') format('woff'),
+    url('./fonts/SanFranciscoText-MediumItalic.ttf') format('truetype');
   font-weight: 500;
   font-style: italic;
 }
 
 @font-face {
   font-family: SanFranciscoText;
-  src: url('http://rudes.de/infog/images/fonts/SanFranciscoText-LightItalic.eot');
-  src: url('http://rudes.de/infog/images/fonts/SanFranciscoText-LightItalic.eot?#iefix') format('embedded-opentype'),
-    url('http://rudes.de/infog/images/fonts/SanFranciscoText-LightItalic.woff') format('woff'),
-    url('http://rudes.de/infog/images/fonts/SanFranciscoText-LightItalic.ttf') format('truetype');
+  src: url('./fonts/SanFranciscoText-LightItalic.eot');
+  src: url('./fonts/SanFranciscoText-LightItalic.eot?#iefix') format('embedded-opentype'),
+    url('./fonts/SanFranciscoText-LightItalic.woff') format('woff'),
+    url('./fonts/SanFranciscoText-LightItalic.ttf') format('truetype');
   font-weight: 200;
   font-style: italic;
 }
 
 @font-face {
   font-family: SanFranciscoText;
-  src: url('http://rudes.de/infog/images/fonts/SanFranciscoText-Regular.eot');
-  src: url('http://rudes.de/infog/images/fonts/SanFranciscoText-Regular.eot?#iefix') format('embedded-opentype'),
-    url('http://rudes.de/infog/images/fonts/SanFranciscoText-Regular.woff') format('woff'),
-    url('http://rudes.de/infog/images/fonts/SanFranciscoText-Regular.ttf') format('truetype');
+  src: url('./fonts/SanFranciscoText-Regular.eot');
+  src: url('./fonts/SanFranciscoText-Regular.eot?#iefix') format('embedded-opentype'),
+    url('./fonts/SanFranciscoText-Regular.woff') format('woff'),
+    url('./fonts/SanFranciscoText-Regular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: SanFranciscoText;
-  src: url('http://rudes.de/infog/images/fonts/SanFranciscoText-Medium.eot');
-  src: url('http://rudes.de/infog/images/fonts/SanFranciscoText-Medium.eot?#iefix') format('embedded-opentype'),
-    url('http://rudes.de/infog/images/fonts/SanFranciscoText-Medium.woff') format('woff'),
-    url('http://rudes.de/infog/images/fonts/SanFranciscoText-Medium.ttf') format('truetype');
+  src: url('./fonts/SanFranciscoText-Medium.eot');
+  src: url('./fonts/SanFranciscoText-Medium.eot?#iefix') format('embedded-opentype'),
+    url('./fonts/SanFranciscoText-Medium.woff') format('woff'),
+    url('./fonts/SanFranciscoText-Medium.ttf') format('truetype');
   font-weight: 500;
   font-style: normal;
 }
 
 @font-face {
   font-family: SanFranciscoText;
-  src: url('http://rudes.de/infog/images/fonts/SanFranciscoText-Bold.eot');
-  src: url('http://rudes.de/infog/images/fonts/SanFranciscoText-Bold.eot?#iefix') format('embedded-opentype'),
-    url('http://rudes.de/infog/images/fonts/SanFranciscoText-Bold.woff') format('woff'),
-    url('http://rudes.de/infog/images/fonts/SanFranciscoText-Bold.ttf') format('truetype');
+  src: url('./fonts/SanFranciscoText-Bold.eot');
+  src: url('./fonts/SanFranciscoText-Bold.eot?#iefix') format('embedded-opentype'),
+    url('./fonts/SanFranciscoText-Bold.woff') format('woff'),
+    url('./fonts/SanFranciscoText-Bold.ttf') format('truetype');
   font-weight: bold;
   font-style: normal;
 }
 
 @font-face {
   font-family: SanFranciscoText;
-  src: url('http://rudes.de/infog/images/fonts/SanFranciscoText-Light.eot');
-  src: url('http://rudes.de/infog/images/fonts/SanFranciscoText-Light.eot?#iefix') format('embedded-opentype'),
-    url('http://rudes.de/infog/images/fonts/SanFranciscoText-Light.woff') format('woff'),
-    url('http://rudes.de/infog/images/fonts/SanFranciscoText-Light.ttf') format('truetype');
+  src: url('./fonts/SanFranciscoText-Light.eot');
+  src: url('./fonts/SanFranciscoText-Light.eot?#iefix') format('embedded-opentype'),
+    url('./fonts/SanFranciscoText-Light.woff') format('woff'),
+    url('./fonts/SanFranciscoText-Light.ttf') format('truetype');
   font-weight: 200;
   font-style: normal;
 }
 
 @font-face {
   font-family: SanFranciscoText;
-  src: url('http://rudes.de/infog/images/fonts/SanFranciscoText-SemiboldItalic.eot');
-  src: url('http://rudes.de/infog/images/fonts/SanFranciscoText-SemiboldItalic.eot?#iefix') format('embedded-opentype'),
-    url('http://rudes.de/infog/images/fonts/SanFranciscoText-SemiboldItalic.woff') format('woff'),
-    url('http://rudes.de/infog/images/fonts/SanFranciscoText-SemiboldItalic.ttf') format('truetype');
+  src: url('./fonts/SanFranciscoText-SemiboldItalic.eot');
+  src: url('./fonts/SanFranciscoText-SemiboldItalic.eot?#iefix') format('embedded-opentype'),
+    url('./fonts/SanFranciscoText-SemiboldItalic.woff') format('woff'),
+    url('./fonts/SanFranciscoText-SemiboldItalic.ttf') format('truetype');
   font-weight: 600;
   font-style: italic;
 }
 
 @font-face {
   font-family: SanFranciscoText;
-  src: url('http://rudes.de/infog/images/fonts/SanFranciscoText-Heavy.eot');
-  src: url('http://rudes.de/infog/images/fonts/SanFranciscoText-Heavy.eot?#iefix') format('embedded-opentype'),
-    url('http://rudes.de/infog/images/fonts/SanFranciscoText-Heavy.woff') format('woff'),
-    url('http://rudes.de/infog/images/fonts/SanFranciscoText-Heavy.ttf') format('truetype');
+  src: url('./fonts/SanFranciscoText-Heavy.eot');
+  src: url('./fonts/SanFranciscoText-Heavy.eot?#iefix') format('embedded-opentype'),
+    url('./fonts/SanFranciscoText-Heavy.woff') format('woff'),
+    url('./fonts/SanFranciscoText-Heavy.ttf') format('truetype');
   font-weight: 900;
   font-style: normal;
 }
 
 @font-face {
   font-family: SanFranciscoText;
-  src: url('http://rudes.de/infog/images/fonts/SanFranciscoText-ThinItalic.eot');
-  src: url('http://rudes.de/infog/images/fonts/SanFranciscoText-ThinItalic.eot?#iefix') format('embedded-opentype'),
-    url('http://rudes.de/infog/images/fonts/SanFranciscoText-ThinItalic.woff') format('woff'),
-    url('http://rudes.de/infog/images/fonts/SanFranciscoText-ThinItalic.ttf') format('truetype');
+  src: url('./fonts/SanFranciscoText-ThinItalic.eot');
+  src: url('./fonts/SanFranciscoText-ThinItalic.eot?#iefix') format('embedded-opentype'),
+    url('./fonts/SanFranciscoText-ThinItalic.woff') format('woff'),
+    url('./fonts/SanFranciscoText-ThinItalic.ttf') format('truetype');
   font-weight: 100;
   font-style: italic;
 }
@@ -693,10 +693,11 @@ ul {
   color: #4cb02d;
   box-sizing: border-box;
   border-top: 1px solid #ccc;
+  height: 0!important;
 }
 .fpcont {
   width: 350px;
-  test-align: center;
+  text-align: center;
   position: relative;
   height: 423px;
   display: inline-block;

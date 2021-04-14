@@ -21,7 +21,7 @@ class StateOfTheBrand extends React.Component {
 				height: 	'auto',
 				padding: 	'0 0 80px 0',
 				listStyleType: 'none',
-				margin: '0 0 100px 0',
+				margin: '0 auto 100px auto',
 				display: 'block',
 				fontSize: '16px',
 				boxShadow: '0 4px 15px rgba(0, 0, 0, 0.2), 0 -4px 7px rgba(0, 0, 0, 0.2)',
