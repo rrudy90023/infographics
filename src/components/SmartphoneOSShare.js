@@ -4,11 +4,11 @@ import numeral from 'numeral'
 import {StyleRoot} from 'radium'
 
 var osPaths = {
-	android: 'http://rudes.de/infog/images/icons/android.svg',
-	blackberry: 'http://rudes.de/infog/images/icons/blackberry.svg',
-	ios: 'http://rudes.de/infog/images/icons/apple.svg',
-	windows: 'http://rudes.de/infog/images/icons/windows.svg',
-	other: 'http://rudes.de/infog/images/icons/osother.svg',
+	android: 'https://rudes-media.s3.us-west-1.amazonaws.com/infog/images/icons/android.svg',
+	blackberry: 'https://rudes-media.s3.us-west-1.amazonaws.com/infog/images/icons/blackberry.svg',
+	ios: 'https://rudes-media.s3.us-west-1.amazonaws.com/infog/images/icons/apple.svg',
+	windows: 'https://rudes-media.s3.us-west-1.amazonaws.com/infog/images/icons/windows.svg',
+	other: 'https://rudes-media.s3.us-west-1.amazonaws.com/infog/images/icons/osother.svg',
 };
 
 

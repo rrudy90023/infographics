@@ -4,31 +4,31 @@ import Data from '../data.js';
 import {StyleRoot} from 'radium';
 
 var flagPaths = {
-  us: 'http://rudes.de/infog/images/flags/us.svg',
-  ca: 'http://rudes.de/infog/images/flags/ca.svg',
-  au: 'http://rudes.de/infog/images/flags/au.svg',
-  jp: 'http://rudes.de/infog/images/flags/jp.svg',
-  kr: 'http://rudes.de/infog/images/flags/kr.svg',
-  cn: 'http://rudes.de/infog/images/flags/cn.svg',
-  hk: 'http://rudes.de/infog/images/flags/hk.svg',
-  uk: 'http://rudes.de/infog/images/flags/uk.svg',
-  fr: 'http://rudes.de/infog/images/flags/fr.svg',
-  de: 'http://rudes.de/infog/images/flags/de.svg',
-  es: 'http://rudes.de/infog/images/flags/es_p.png',
-  it: 'http://rudes.de/infog/images/flags/it.svg',
-  ch: 'http://rudes.de/infog/images/flags/ch.svg',
-  uae: 'http://rudes.de/infog/images/flags/uae.svg',
-  tr: 'http://rudes.de/infog/images/flags/tr.svg',
-  ru: 'http://rudes.de/infog/images/flags/ru.svg',
-  br: 'http://rudes.de/infog/images/flags/br.svg',
-  mx: 'http://rudes.de/infog/images/flags/mx_p.png',
-  cl: 'http://rudes.de/infog/images/flags/cl.svg',
-  co: 'http://rudes.de/infog/images/flags/co.svg',
-  sg: 'http://rudes.de/infog/images/flags/sg.svg',
-  th: 'http://rudes.de/infog/images/flags/th.svg',
-  my: 'http://rudes.de/infog/images/flags/my.svg',
-  id: 'http://rudes.de/infog/images/flags/id.svg',
-  ind: 'http://rudes.de/infog/images/flags/in.svg'
+  us: 'https://rudes-media.s3.us-west-1.amazonaws.com/infog/images/flags/us.svg',
+  ca: 'https://rudes-media.s3.us-west-1.amazonaws.com/infog/images/flags/ca.svg',
+  au: 'https://rudes-media.s3.us-west-1.amazonaws.com/infog/images/flags/au.svg',
+  jp: 'https://rudes-media.s3.us-west-1.amazonaws.com/infog/images/flags/jp.svg',
+  kr: 'https://rudes-media.s3.us-west-1.amazonaws.com/infog/images/flags/kr.svg',
+  cn: 'https://rudes-media.s3.us-west-1.amazonaws.com/infog/images/flags/cn.svg',
+  hk: 'https://rudes-media.s3.us-west-1.amazonaws.com/infog/images/flags/hk.svg',
+  uk: 'https://rudes-media.s3.us-west-1.amazonaws.com/infog/images/flags/uk.svg',
+  fr: 'https://rudes-media.s3.us-west-1.amazonaws.com/infog/images/flags/fr.svg',
+  de: 'https://rudes-media.s3.us-west-1.amazonaws.com/infog/images/flags/de.svg',
+  es: 'https://rudes-media.s3.us-west-1.amazonaws.com/infog/images/flags/es_p.png',
+  it: 'https://rudes-media.s3.us-west-1.amazonaws.com/infog/images/flags/it.svg',
+  ch: 'https://rudes-media.s3.us-west-1.amazonaws.com/infog/images/flags/ch.svg',
+  uae: 'https://rudes-media.s3.us-west-1.amazonaws.com/infog/images/flags/uae.svg',
+  tr: 'https://rudes-media.s3.us-west-1.amazonaws.com/infog/images/flags/tr.svg',
+  ru: 'https://rudes-media.s3.us-west-1.amazonaws.com/infog/images/flags/ru.svg',
+  br: 'https://rudes-media.s3.us-west-1.amazonaws.com/infog/images/flags/br.svg',
+  mx: 'https://rudes-media.s3.us-west-1.amazonaws.com/infog/images/flags/mx_p.png',
+  cl: 'https://rudes-media.s3.us-west-1.amazonaws.com/infog/images/flags/cl.svg',
+  co: 'https://rudes-media.s3.us-west-1.amazonaws.com/infog/images/flags/co.svg',
+  sg: 'https://rudes-media.s3.us-west-1.amazonaws.com/infog/images/flags/sg.svg',
+  th: 'https://rudes-media.s3.us-west-1.amazonaws.com/infog/images/flags/th.svg',
+  my: 'https://rudes-media.s3.us-west-1.amazonaws.com/infog/images/flags/my.svg',
+  id: 'https://rudes-media.s3.us-west-1.amazonaws.com/infog/images/flags/id.svg',
+  ind: 'https://rudes-media.s3.us-west-1.amazonaws.com/infog/images/flags/in.svg'
 };
 
 
@@ -147,7 +147,7 @@ class Nav extends React.Component {
 						<div>
 							<div style={[styles.headtop]}>
 								<Link to='/geos' style={{'width':'100%', 'height':'70px', 'position':'relative'}}>
-									<img src='http://rudes.de/infog/images/icons/gps.svg' style={{'position': 'relative', 'left': '7px', 'top': '15px', 'width':'25px', 'float':'left'}} alt="" />						
+									<img src='https://rudes-media.s3.us-west-1.amazonaws.com/infog/images/icons/gps.svg' style={{'position': 'relative', 'left': '7px', 'top': '15px', 'width':'25px', 'float':'left'}} alt="" />						
 									<img src={flag} style={{'display': 'inline-block', 'cursor': 'pointer', 'textAlign': 'center', 'width': '32px', 'position': 'relative', 'top': '19px'}} alt="" />
 									<span style={{'fontSize': '24px', 'top': '12px', 'position': 'relative'}}>  /  {this.state.data.country}</span>
 								</Link>

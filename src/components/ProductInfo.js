@@ -8,21 +8,21 @@ import ProductInfoPieChart from './ProductInfoPieChart';
 import Legend from './Legend';
 
 var ware = {
-	iphone: 'http://rudes.de/infog/images/icons/iphone.svg',
-	ipad: 'http://rudes.de/infog/images/icons/ipad.svg',
-	macbook: 'http://rudes.de/infog/images/icons/macbook.svg',
-	watch: 'http://rudes.de/infog/images/icons/watch.svg',
-	music: 'http://rudes.de/infog/images/icons/music.svg'
+	iphone: 'https://rudes-media.s3.us-west-1.amazonaws.com/infog/images/icons/iphone.svg',
+	ipad: 'https://rudes-media.s3.us-west-1.amazonaws.com/infog/images/icons/ipad.svg',
+	macbook: 'https://rudes-media.s3.us-west-1.amazonaws.com/infog/images/icons/macbook.svg',
+	watch: 'https://rudes-media.s3.us-west-1.amazonaws.com/infog/images/icons/watch.svg',
+	music: 'https://rudes-media.s3.us-west-1.amazonaws.com/infog/images/icons/music.svg'
 
 };
 
 
 var greyware = {
-	iphone: 'http://rudes.de/infog/images/icons/iphoneg.svg',
-	ipad: 'http://rudes.de/infog/images/icons/ipadg.svg',
-	macbook: 'http://rudes.de/infog/images/icons/macbookg.svg',
-	watch: 'http://rudes.de/infog/images/icons/watchg.svg',
-	music: 'http://rudes.de/infog/images/icons/musicg.svg'
+	iphone: 'https://rudes-media.s3.us-west-1.amazonaws.com/infog/images/icons/iphoneg.svg',
+	ipad: 'https://rudes-media.s3.us-west-1.amazonaws.com/infog/images/icons/ipadg.svg',
+	macbook: 'https://rudes-media.s3.us-west-1.amazonaws.com/infog/images/icons/macbookg.svg',
+	watch: 'https://rudes-media.s3.us-west-1.amazonaws.com/infog/images/icons/watchg.svg',
+	music: 'https://rudes-media.s3.us-west-1.amazonaws.com/infog/images/icons/musicg.svg'
 
 };
 

@@ -3,10 +3,10 @@ import {StyleRoot} from 'radium';
 
 
 var platPaths = {
-	mobile: 'http://rudes.de/infog/images/icons/mobile.svg',
-	tablet: 'http://rudes.de/infog/images/icons/tablet.svg',
-	desktop: 'http://rudes.de/infog/images/icons/desktop.svg',
-	laptop: 'http://rudes.de/infog/images/icons/laptop.svg'
+	mobile: 'https://rudes-media.s3.us-west-1.amazonaws.com/infog/images/icons/mobile.svg',
+	tablet: 'https://rudes-media.s3.us-west-1.amazonaws.com/infog/images/icons/tablet.svg',
+	desktop: 'https://rudes-media.s3.us-west-1.amazonaws.com/infog/images/icons/desktop.svg',
+	laptop: 'https://rudes-media.s3.us-west-1.amazonaws.com/infog/images/icons/laptop.svg'
 };
 
 

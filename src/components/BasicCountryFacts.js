@@ -5,20 +5,20 @@ import { StyleRoot } from 'radium';
 
 
 var countrypaths = {
-	avg_household_income: 'http://rudes.de/infog/images/icons/average_household_income.svg',
-	gdp_growth_in_2014: 'http://rudes.de/infog/images/icons/gdp_growth_in_2014.svg',
-	median_age: 'http://rudes.de/infog/images/icons/median_age.svg',
-	national_language: 'http://rudes.de/infog/images/icons/national_language.svg',
-	population: 'http://rudes.de/infog/images/icons/population.svg',
-	unemployment_rate: 'http://rudes.de/infog/images/icons/unemployment_rate.svg',
-	population_of_the_middle_class: 'http://rudes.de/infog/images/icons/population.svg',
-	avg_income_of_the_middle_class_tier_1: 'http://rudes.de/infog/images/icons/average_household_income.svg',
-	avg_income_of_the_middle_class_tier_2: 'http://rudes.de/infog/images/icons/average_household_income.svg',
-	avg_income_of_the_middle_class: 'http://rudes.de/infog/images/icons/average_household_income.svg',
-	population_of_the_upper_middle_class: 'http://rudes.de/infog/images/icons/population.svg',
-	population_of_the_lower_middle_class: 'http://rudes.de/infog/images/icons/population.svg',
-	avg_income_of_family_upper_middle_class: 'http://rudes.de/infog/images/icons/average_household_income.svg',
-	avg_income_of_family_lower_middle_class: 'http://rudes.de/infog/images/icons/average_household_income.svg'
+	avg_household_income: 'https://rudes-media.s3.us-west-1.amazonaws.com/infog/images/icons/average_household_income.svg',
+	gdp_growth_in_2014: 'https://rudes-media.s3.us-west-1.amazonaws.com/infog/images/icons/gdp_growth_in_2014.svg',
+	median_age: 'https://rudes-media.s3.us-west-1.amazonaws.com/infog/images/icons/median_age.svg',
+	national_language: 'https://rudes-media.s3.us-west-1.amazonaws.com/infog/images/icons/national_language.svg',
+	population: 'https://rudes-media.s3.us-west-1.amazonaws.com/infog/images/icons/population.svg',
+	unemployment_rate: 'https://rudes-media.s3.us-west-1.amazonaws.com/infog/images/icons/unemployment_rate.svg',
+	population_of_the_middle_class: 'https://rudes-media.s3.us-west-1.amazonaws.com/infog/images/icons/population.svg',
+	avg_income_of_the_middle_class_tier_1: 'https://rudes-media.s3.us-west-1.amazonaws.com/infog/images/icons/average_household_income.svg',
+	avg_income_of_the_middle_class_tier_2: 'https://rudes-media.s3.us-west-1.amazonaws.com/infog/images/icons/average_household_income.svg',
+	avg_income_of_the_middle_class: 'https://rudes-media.s3.us-west-1.amazonaws.com/infog/images/icons/average_household_income.svg',
+	population_of_the_upper_middle_class: 'https://rudes-media.s3.us-west-1.amazonaws.com/infog/images/icons/population.svg',
+	population_of_the_lower_middle_class: 'https://rudes-media.s3.us-west-1.amazonaws.com/infog/images/icons/population.svg',
+	avg_income_of_family_upper_middle_class: 'https://rudes-media.s3.us-west-1.amazonaws.com/infog/images/icons/average_household_income.svg',
+	avg_income_of_family_lower_middle_class: 'https://rudes-media.s3.us-west-1.amazonaws.com/infog/images/icons/average_household_income.svg'
 };
 
 var longfonttext = {
