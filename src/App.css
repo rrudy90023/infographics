@@ -445,7 +445,7 @@ ul {
 .cultr ul li {
   list-style-type: none;
   padding-left: 2em;
-  background-image: url("http://rudes.de/infog/images/icons/arrow-b.svg");
+  background-image: url("https://rudes-media.s3.us-west-1.amazonaws.com/images/icons/arrow-b.svg");
   background-size: 1.5em;
   background-repeat: no-repeat;
   background-position: -2px 4px;
@@ -455,7 +455,7 @@ ul {
 .lonu ul li {
   list-style-type: none;
   padding-left: 2em;
-  background-image: url("http://rudes.de/infog/images/icons/arrow-p.svg");
+  background-image: url("https://rudes-media.s3.us-west-1.amazonaws.com/images/icons/arrow-p.svg");
   background-size: 1.5em;
   background-repeat: no-repeat;
   background-position: -2px 4px;
@@ -465,7 +465,7 @@ ul {
 .locot ul li {
   list-style-type: none;
   padding-left: 2em;
-  background-image: url("http://rudes.de/infog/images/icons/arrow-o.svg");
+  background-image: url("https://rudes-media.s3.us-west-1.amazonaws.com/images/icons/arrow-o.svg");
   background-size: 1.5em;
   background-repeat: no-repeat;
   background-position: -2px 4px;
@@ -475,7 +475,7 @@ ul {
 .stateb ul li {
   list-style-type: none;
   padding-left: 2em;
-  background-image: url("http://rudes.de/infog/images/icons/arrow-g.svg");
+  background-image: url("https://rudes-media.s3.us-west-1.amazonaws.com/images/icons/arrow-g.svg");
   background-size: 1.5em;
   background-repeat: no-repeat;
   background-position: -2px 4px;
